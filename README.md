@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋 I'm Reza
 
-<!--
-**rezakh5833/rezakh5833** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+I am currently learning Data Science with a strong focus on Python and Pandas.
 
-Here are some ideas to get you started:
+I enjoy building small but real projects to understand data processing, analysis, and basic exploratory data analysis (EDA).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My long-term goal is to grow into an **Applied Data Scientist / ML Engineer** role, with a clear plan to work toward the Swiss job market 🇨🇭.
+
+---
+
+### 🛠 Skills
+- Python
+- Pandas
+- Data Analysis
+- JSON / CSV
+- Git & GitHub (learning)
+
+---
+
+### 📂 Projects
+- **Python Shopping List CLI**  
+  A command-line application built with Python, featuring data persistence using JSON and basic data analysis with Pandas.
+
+- **Shopping Data Analysis**  
+  Used Pandas to create features, perform basic EDA, and export results to CSV.
+
+---
+
+### 🌱 Currently Learning
+- SQL
+- Scikit-learn
+- Production-oriented ML concepts
+
+---
+
+### 🔗 Connect
+- LinkedIn: https://www.linkedin.com/in/reza-khademi-a0b87a3a2 
